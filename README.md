@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="Images/project-overview.jpg" alt="NE5532 Active Low Pass Filter" width="750">
+  <img src="Images/assembled%20pcb%20front.jpeg"
+       alt="NE5532 Active Low Pass Filter - Front View"
+       width="750">
 </p>
 
 ## Overview
