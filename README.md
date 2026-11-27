@@ -8,8 +8,10 @@
 <p align="center">
   <img src="Images/assembled%20pcb%20front.jpeg"
        alt="NE5532 Active Low Pass Filter - Front View"
-       width="750">
+       width="750"
+       style="border-radius: 15px; transform: rotate(180deg);">
 </p>
+
 
 ## Overview
 
